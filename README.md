@@ -14,7 +14,7 @@ Create a virtual environment for your project and navigate to the parent directo
 
     ```bash
     git clone https://github.com/adcoh/jupyterlab-helper.git jupyterlab_helper && cp jupyterlab_helper/jupyterlab_venv_installer.sh jupyterlab_venv_installer.sh && rm -rf jupyterlab_helper
-    bash jupyterlab_venv_installer.sh
+    jupyterlab_venv_installer.sh
     ```
 
 This will do the following
