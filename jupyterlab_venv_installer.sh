@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 pip install --upgrade pip
 pip install upgrade jupyterlab
