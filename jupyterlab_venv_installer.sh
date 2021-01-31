@@ -1,7 +1,7 @@
 #!/bin/bash
 
 pip install --upgrade pip
-pip install upgrade jupyterlab
+pip install --upgrade jupyterlab
 pip install autopep8
 pip install --upgrade jupyterlab-git
 
